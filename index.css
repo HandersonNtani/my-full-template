@@ -116,16 +116,15 @@ input:hover {
 .collection-img {
    width: 100%;
    height: auto;
-   object-fit: ;
    padding: 20px 15px 10px 5px;
    display: block;
 }
+
 .coins {
     width: 100%;
     height: auto;
     padding: 10px;
 }
-
 .footer-wrap{
     display: flex;
     justify-content: space-around;
