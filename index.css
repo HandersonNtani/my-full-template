@@ -16,10 +16,12 @@ h1, h2 {
 header, footer {
     background: rgb(103,71,54);
     min-height: 130px;
+    background-position: 0%;
 }
 footer {
     text-align: center;
     color: white;
+    padding: 10px;
 }
 .nav-bar {
     font-size: 22px;
@@ -29,6 +31,9 @@ footer {
 }
 a:hover {
     background-color: teal;
+}
+input:hover {
+    background-color: rgb(114, 114, 20);
 }
 .nav-bar >nav > a {
     margin: 6px; 
@@ -70,7 +75,9 @@ a:hover {
 }
 
 .about-image{
-    height: 600px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .about-text{
@@ -96,13 +103,27 @@ a:hover {
 }
 
 .history-image-wrap{
-    display: flex;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 #collection{
     background-color: rgb(122,18,20);
     color: white;
     padding: 1rem;
+}
+.collection-img {
+   width: 100%;
+   height: auto;
+   object-fit: ;
+   padding: 20px 15px 10px 5px;
+   display: block;
+}
+.coins {
+    width: 100%;
+    height: auto;
+    padding: 10px;
 }
 
 .footer-wrap{
