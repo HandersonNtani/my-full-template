@@ -24,10 +24,13 @@ header, footer {
     background: rgb(103,71,54);
     min-height: 130px;
     width: 100%;
+    
 }
 footer {
     text-align: center;
     color: white;
+    bottom: 0;
+    right: 0;
 }
 
 .nav-bar {
@@ -35,7 +38,7 @@ footer {
     padding: 1rem 0;
     display: block;
     text-align: center;
-    width: 100%;
+   
 }
 a:hover {
     background-color: teal;
@@ -64,6 +67,8 @@ a:hover {
     background-color: rgb(122,18,20);
     color: whitesmoke;
     padding: 1rem;
+    position: relative;
+    right: 0;
 }
 
 input:hover {
@@ -84,13 +89,15 @@ input:hover {
     display: inline-block;
     margin-right: auto;
     position: relative;
+    left: 0px;
 }
 
 .about-image{
     height: 600px;
     margin-left:auto;
     position: relative;
-    max-width: max-content;
+    max-width: 50vw;
+    object-fit: cover;
 }
 
 .about-text{
@@ -121,6 +128,8 @@ input:hover {
 .history-image-wrap{
     display: flex;
     flex-wrap: wrap;
+    object-fit: cover;
+    
 }
 
 #collection{
@@ -129,7 +138,10 @@ input:hover {
     padding: 1rem;
     flex-wrap: wrap;
 }
-
+.coins {
+    max-width: 95vw;
+    object-fit: cover;
+}
 .footer-wrap{
     display: flex;
     justify-content: space-around;
