@@ -1,10 +1,10 @@
 # MY FIRST WEBPAGE README.md!
 
-[Mock-up](images/mock-up.PNG) this screen shot depicts my Portfolio Project to be submitted for assassment at Code Institute where i am studying. it is a Static Frontend site with basice HTML and CSS. I chose the Historical Website of the VIKING BOAT Museum. Most of my ideas was realised thanks to the Original website (https://vasamuseet.se). I really appreciate their work and beautiful website. 
+![Mock-up](images/mock-up.PNG) this screen shot depicts my Portfolio Project to be submitted for assassment at Code Institute where i am studying. it is a Static Frontend site with basice HTML and CSS. I chose the Historical Website of the VIKING BOAT Museum. Most of my ideas was realised thanks to the Original website (https://vasamuseet.se). I really appreciate their work and beautiful website. 
 
-[Header](images/header.PNG) The header section has Navigation elements which animates to the various pages when clicked upon. the Font Family of Arial, Helvetica, sans-serif and the H2 and H3 with Cursive font types. the color was clearfully calculated with repect to UX.
+![Header](images/header.PNG) The header section has Navigation elements which animates to the various pages when clicked upon. the Font Family of Arial, Helvetica, sans-serif and the H2 and H3 with Cursive font types. the color was clearfully calculated with repect to UX.
 
-[Form](images/form.PNG). The form contains inputs and labels with placeholders spiced with a :hover background-color of teal. this was selected to improve the user exprience that hints the user to fill up the blank spaces.
+![Form](images/form.PNG). The form contains inputs and labels with placeholders spiced with a :hover background-color of teal. this was selected to improve the user exprience that hints the user to fill up the blank spaces.
 
 ![Section-1](images/seaction1.PNG) Section 1 was about the brief history of this boats the Viking wars. A recap of the basic information about the museum and the number of visitors yearly.
 
