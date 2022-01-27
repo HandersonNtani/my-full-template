@@ -6,7 +6,7 @@
 
 [Form](images/form.PNG). The form contains inputs and labels with placeholders spiced with a :hover background-color of teal. this was selected to improve the user exprience that hints the user to fill up the blank spaces.
 
-[Section-1](images/section1.PNG) Section 1 was about the brief history of this boats the Viking wars. A recap of the basic information about the museum and the number of visitors yearly.
+[Seaction-1](images/section1.PNG) Section 1 was about the brief history of this boats the Viking wars. A recap of the basic information about the museum and the number of visitors yearly.
 
 [Section-2](images/section-2.PNG) The section two contains the picture and eplanation how the boat was created and some minute details of the history. 
 
