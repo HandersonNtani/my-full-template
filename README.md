@@ -1,6 +1,6 @@
 # MY FIRST WEBPAGE README.md!
 
-[Mock-up](images/mock-up.PNG) this screen shot depicts my Portfolio Project to be submitted for assassment at Code Institute where i am studying. it is a Static Frontend site with basice HTML and CSS. I chose the Historical Website of the VIKING BOAT Museum. 
+[Mock-up](images/mock-up.PNG) this screen shot depicts my Portfolio Project to be submitted for assassment at Code Institute where i am studying. it is a Static Frontend site with basice HTML and CSS. I chose the Historical Website of the VIKING BOAT Museum. Most of my ideas was realised thanks to the Original website (https://vasamuseet.se). I really appreciate their work and beautiful website. 
 
 [Header](images/header.PNG) The header section has Navigation elements which animates to the various pages when clicked upon. the Font Family of Arial, Helvetica, sans-serif and the H2 and H3 with Cursive font types. the color was clearfully calculated with repect to UX.
 
@@ -25,11 +25,21 @@ then git push "Enter" then i change versions of my code.
 I used the Jigsaw W3 tool to test my CSS code which was all good. 
 Then my HTML i checked using [HTML](images/html-shot.PNG)
 
--Testing the Website.
-
--README.md
+-Testing the Website. After setting up everything up and cooking i went on to test it with web.dev [WEB.DEV](images/testing.PNG) where i scored 90 100 100 90 on different scales as shown on the picture.
 
 -Mentor Feedback
+I had 2 meetings with my Mentor and we did chatted because there was technical hitches with my Slack mic. However, he gave me tips on what to do and how to deploy the website on Github in order that he can have a URL link to my repo. An example of this was You can do it easily in Gitub:
+1. Open the repository on GitHub
+2. Go to "Settings" (the tab on the right)
+3. On the left hand side select pages, select the main branch as the source.  Then it shows you a green confirmation "Your site is published at......" with the URL.
 
--Picture Appreciation.
+# Disclaimer.
+
+I want to appreciate the owners of the website Vasamuseet and Annellie Karlsson the photographer of the pictures i downloaded from the website. i have no copyrights to these images and i used them for the mere purpose of learning and studies.
+
+# Difficulties
+
+On validation my code i had one bug on the docktype element and still don't understand what is wrong.
+I had issues had more issues attaching pictures and screenshots on Markdown. took it on Tutor assistance they called hours after i already did research and got the formula on https://marinegeo.github.io/2018-08-10-adding-images-markdown/. Furthermore, i got support from Slack community too which i really must appreciate for always guiding me through.
+I did also had issues with my Responsive designing. Got through it with he help of Media query. 
 
