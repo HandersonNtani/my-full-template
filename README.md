@@ -37,6 +37,8 @@ I had 2 meetings with my Mentor and we did chatted because there was technical h
 
 I want to appreciate the owners of the website Vasamuseet and Annellie Karlsson the photographer of the pictures i downloaded from the website. i have no copyrights to these images and i used them for the mere purpose of learning and studies.
 
+The Footer and the Form source codes came from our class work on Coder's Coffee House project. It won't go without given credit to Vasamuseet website also for the inspiration and picture donation to my website.
+
 # Difficulties
 
 On validation my code i had one bug on the docktype element and still don't understand what is wrong.
