@@ -33,7 +33,7 @@ I had 2 meetings with my Mentor and we did chatted because there was technical h
 2. Go to "Settings" (the tab on the right)
 3. On the left hand side select pages, select the main branch as the source.  Then it shows you a green confirmation "Your site is published at......" with the URL.
 
-# Disclaimer.
+# Disclaimer/Credits.
 
 I want to appreciate the owners of the website Vasamuseet and Annellie Karlsson the photographer of the pictures i downloaded from the website. i have no copyrights to these images and i used them for the mere purpose of learning and studies.
 
